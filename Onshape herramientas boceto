@@ -2,4 +2,9 @@ Para hacer un boceto en onshape tienes la linea para crear un poligono a mano, e
 con el puedes crear cualquier tipo de circulo de cualquier diametro, un arco de 3 puntos para crear un semi circulo, un poligono inscrito para hacer un 
 poligono como un triangulo, pentagono etc) y por ultimo esta spiline que es para como una linea normal pero que tiene curvatura. 
 Hay una herramienta de puntos para agregar puntos con los que puedes unir otros puntos mediante la linea o un spiline y hacer un poligono o otra cualquier 
-cosa. Hay una herramienta de texto para agregar un texto en tu modelo de Onshape. 
+cosa. Hay una herramienta de texto para agregar un texto en tu modelo de Onshape. Luego hay una herramienta denominada herramienta de proyeccion esta sirve
+para proyectar el boceto de algun modelo ya hecho. Hay una herramienta de mida que usa para hacer una linea imaginaria que te puede servir como una medida
+de referencia, la cual no se tomara en cuenta a la hora de la extrusion. Redondeo de boceto, con dos lineas una horizontal y una vertical podras usar esta 
+herramienta que sirve para redondear. Herramienta de recorte se usa para quitar una linea que te moleste o no haga falta. Esquidistanciar es una herramienta
+la cual crea una copia en paralelo a la distancia que quieras de alguna linea. Simetria es una funcion la cual sirve para hacer una copia identica de alguna
+parte del boceto alrededor de una linea o plano. Con el patron lineal puedes crear  
