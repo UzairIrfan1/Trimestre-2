@@ -7,4 +7,6 @@ para proyectar el boceto de algun modelo ya hecho. Hay una herramienta de mida q
 de referencia, la cual no se tomara en cuenta a la hora de la extrusion. Redondeo de boceto, con dos lineas una horizontal y una vertical podras usar esta 
 herramienta que sirve para redondear. Herramienta de recorte se usa para quitar una linea que te moleste o no haga falta. Esquidistanciar es una herramienta
 la cual crea una copia en paralelo a la distancia que quieras de alguna linea. Simetria es una funcion la cual sirve para hacer una copia identica de alguna
-parte del boceto alrededor de una linea o plano. Con el patron lineal puedes crear  
+parte del boceto alrededor de una linea o plano. Y para finalizar estan las herramientas para las lineas, coincidente, sirve para poder coincidir lineas con 
+lineas, concentrico para hacer conincidir el centro de una circunferencia, paralelo para poner en paralelo las lineas, y tangente para hacer coincidir lineas
+con circunferencias. 
